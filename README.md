@@ -1,2 +1,2 @@
-# TinDogApp---Front_End
+# TinDogApp -Landing Page
 Front end design for an app
